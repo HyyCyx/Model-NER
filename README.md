@@ -1,9 +1,9 @@
 # Model-NER
-环境:
-    torch=1.8.1+cu111
-    numpy=1.21.6
-    fastNLP=0.6.0
-    transformers=3.4.0
+环境: \n
+    torch=1.8.1+cu111 \n
+    numpy=1.21.6 \n
+    fastNLP=0.6.0 \n
+    transformers=3.4.0 \n
 配置文件：config.py
 测试文件：test.py
 测试集：\entity_extraction\test.json
