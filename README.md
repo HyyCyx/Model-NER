@@ -1,9 +1,12 @@
-环境
+主要环境：
 
-torch=1.8.1+cu111
-numpy=1.21.6
-fastNLP=0.6.0
-transformers=3.4.0
+  torch=1.8.1+cu111
+
+  numpy=1.21.6
+
+  fastNLP=0.6.0
+
+  transformers=3.4.0
 
 配置文件：config.py
 
